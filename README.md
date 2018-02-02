@@ -20,7 +20,7 @@ Maven
 <dependency>
   <groupId>com.netflix.spinnaker.embedded-redis</groupId>
   <artifactId>embedded-redis</artifactId>
-  <version>0.7</version>
+  <version>0.7.0</version>
 </dependency>
 ```
 
